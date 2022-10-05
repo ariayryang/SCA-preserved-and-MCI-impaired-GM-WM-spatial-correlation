@@ -1,6 +1,6 @@
 %% ------------------------------------------------------------
 %@Name: Spacial Correlation & FDR Correction
-%@Author: Yiru, Yang., Shaokun Zhao
+%@Author: Yiru, Yang., Shaokun, Zhao
 %@Date: 09/27/2022
 %@Description: This program is used to calculate the spatial correlation 
 %   pattern of the point-to-point ROI signal and perform FDR correction on 
